@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html >
+<!--From https://codepen.io/frytyler/pen/EGdtg-->
+<head>
+  <meta charset="UTF-8">
+  <title>ML API</title>
+  <link href='https://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Arimo' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Hind:300' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+  
+</head>
+
+<body>
+ <div class="login">
+	<h1>Patient Education Material</h1>
+
+     <!-- Main Input For Receiving Member_id -->
+    <form action="{{ url_for('EducationalMaterial')}}"method="post">
+    	<input type="text" name="MemberId" placeholder="MemberId" required="required" />
+        
+		
+
+        <button type="submit" class="btn btn-primary btn-block btn-large">Education Material</button>
+    </form>
+
+   <br>
+   <br>
+   <table class="centered thick-border">
+        <tr>
+                <th>First name</th>
+                <th>Age</th>
+        </tr>
+        {% for k, v in output.items() %}
+                <tr>
+                        <td>{{ k }}</td>
+                        <td>{{ v }}</td>
+                </tr>
+        {% endfor %}
+</table>
+
+ </div>
+
+
+</body>
+</html>
