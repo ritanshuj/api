@@ -1,0 +1,34 @@
+MedicalConditionCode,MedicalConditionDescription,EducationMaterial
+1,"Acidity, Gas, Stomach Issue",https://medlineplus.gov/gas.html
+2,Allergy,https://medlineplus.gov/allergy.html
+3,Accident,https://medlineplus.gov/woundsandinjuries.html
+4,"Bone, Joint Issues/Orthopedics",https://medlineplus.gov/jointdisorders.html
+5,Breast feeding Advice,https://medlineplus.gov/breastfeeding.html
+6,"Cold, Cough, Fever",https://medlineplus.gov/commoncold.html
+7,Conceiving Issue,https://newsinhealth.nih.gov/2015/07/pregnancy-problems
+8,Child/Infant Issues,https://medlineplus.gov/commoninfantandnewbornproblems.html
+9,Cardiac/Heart Related Issues,https://medlineplus.gov/heartdiseases.html
+10,Cancer,https://medlineplus.gov/cancer.html
+11,Diabetes Consult,https://medlineplus.gov/diabetes.html
+12,Dental Problem,https://medlineplus.gov/dentalhealth.html
+13,"Ear, Nose, Throat",https://pubmed.ncbi.nlm.nih.gov/15239750/
+14,Emergency,https://medlineplus.gov/emergencymedicalservices.html
+15,General Health,https://medlineplus.gov/healthyliving.html
+16,Hair and Scalp Problem,https://medlineplus.gov/dandruffcradlecapandotherscalpconditions.html
+17,Headache,https://medlineplus.gov/headache.html
+18,I Don't Know,https://medlineplus.gov/healthyliving.html
+19,Lab Report Analysis,https://labtestsonline.org/articles/laboratory-test-reference-ranges
+20,Nephrology Related,https://medlineplus.gov/kidneydiseases.html
+21,Other,https://medlineplus.gov/healthyliving.html
+22,Pregnancy Related,https://medlineplus.gov/pregnancy.html
+23,Plastic Surgery,https://medlineplus.gov/plasticandcosmeticsurgery.html
+24,Physiotherapy,https://kidshealth.org/en/parents/phys-therapy.html
+25,Pain Management,https://medlineplus.gov/nondrugpainmanagement.html
+26,Skin Problem,https://medlineplus.gov/skinconditions.html
+27,Sexual Health,https://medlineplus.gov/sexualhealth.html
+28,Stress and Mental Health,https://medlineplus.gov/stress.html
+29,Urology Related,https://medlineplus.gov/bladderdiseases.html
+30,Vein Related,https://medlineplus.gov/ency/patientinstructions/000615.htm
+31,Women Issues,https://medlineplus.gov/womenshealth.html
+32,ok,ok
+33,Brain Related,https://medlineplus.gov/braindiseases.html
