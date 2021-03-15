@@ -1,5 +1,5 @@
 flask
 pandas
-jsonlib>=1.6.1
+
 urllib3
 gunicorn
